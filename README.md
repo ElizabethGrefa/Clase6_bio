@@ -4,6 +4,7 @@ Control de versión determinado
 - Elizabeth Grefa
 - Estudiante 
 - Indígina
-
+- 21 años
+- Azul
 Caraterísticas del computador 
 Cracterísticas del programa
